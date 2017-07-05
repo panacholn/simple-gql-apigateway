@@ -1,0 +1,20 @@
+{
+  "name": "simple-gql-apigateway",
+  "version": "1.0.0",
+  "description": "Simple graphql api gateway.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panacholn/simple-gql-apigateway.git"
+  },
+  "keywords": [
+    "npm",
+    "tnrequest"
+  ],
+  "author": "Panacholn Pongsamrithphol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/panacholn/simple-gql-apigateway/issues"
+  },
+  "homepage": "https://github.com/panacholn/simple-gql-apigateway#readme"
+}
